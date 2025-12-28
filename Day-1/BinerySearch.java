@@ -1,3 +1,6 @@
+
+
+
 public class BinerySearch {
     public static void main(String[] args)
     {
